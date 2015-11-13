@@ -17,6 +17,10 @@ public class MainActivity extends ActionBarActivity {
         bart.animate()
                 .translationXBy(1000f)
                 .translationYBy(1000f)
+                .translationXBy(-1000f)
+                .translationYBy(-1000f)
+                .translationXBy(1000f)
+                .translationYBy(1000f)
                 .rotationBy(3600)
                 .setDuration(2000);
 
