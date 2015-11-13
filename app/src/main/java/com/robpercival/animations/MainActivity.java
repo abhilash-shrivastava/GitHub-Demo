@@ -39,6 +39,12 @@ public class MainActivity extends ActionBarActivity {
         bart.setTranslationX(-1000f);
         bart.setTranslationY(-1000f);
 
+        bart.setTranslationX(1000f);
+        bart.setTranslationY(1000f);
+
+        bart.setTranslationX(-1000f);
+        bart.setTranslationY(-1000f);
+
 
 
     }
